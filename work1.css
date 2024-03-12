@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    background-color: white;
+}
+top-header{
+    color: hsl(23,144,144);
+}
+header-two{
+    color: hsl(71, 73%, 54%);
+    
+}
+
+}

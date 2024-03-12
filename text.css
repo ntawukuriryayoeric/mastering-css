@@ -1,0 +1,30 @@
+body{
+background-color: white;
+margin-left: 20px;
+margin-top: 20px;
+ }
+ .top-header{
+ 	color: hsl(73,167%,144%);
+
+ }
+ .head-two{
+ 	color: hsl(53, 120%, 140%);
+ 	display: flex;
+ 	background-color: blanchedalmond;
+ 	display: inline-grid;
+ 	width: 200px;
+ 	height: 200px;
+ 	padding: 20px;
+ 	
+
+
+ }
+ .paragraph{
+ 	color: hsl(53, 120%, 140%);
+ 	display: flex;
+ 	background-color: burlywood;
+ 	display: inline-grid;
+ 	width: 200px;
+ 	height: 200px;
+ 	padding: 20px;
+  }
